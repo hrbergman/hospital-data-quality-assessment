@@ -9,6 +9,6 @@ Before any analysis could be trusted, this 10,000-patient, 52-variable hospital 
 - Proposed standardized naming conventions and clearer field definitions, including renaming ambiguous demographic fields to reflect that they may describe the insurance policyholder rather than the patient
 - Applied Principal Component Analysis to the cleaned quantitative variables and retained six components using eigenvalue and scree plot criteria
 
-[Documentation](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-documentation.pdf)
+[Documentation](https://github.com/hrbergman/hospital-data-quality-assessment/blob/main/hospital-data-quality-assessment/data-cleaning-documentation.pdf)
 | 
-[Video Presentation](https://youtu.be/jKOE0cG68rc)
+[Video Presentation](https://youtu.be/QTo2SYWpywU)
